@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WimsCore", "WimsCore\WimsCore.csproj", "{6B799AC2-2470-42AA-BBBE-2A4EC4BFB1EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B799AC2-2470-42AA-BBBE-2A4EC4BFB1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B799AC2-2470-42AA-BBBE-2A4EC4BFB1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B799AC2-2470-42AA-BBBE-2A4EC4BFB1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B799AC2-2470-42AA-BBBE-2A4EC4BFB1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = WimsCore\WimsCore.csproj
+	EndGlobalSection
+EndGlobal
